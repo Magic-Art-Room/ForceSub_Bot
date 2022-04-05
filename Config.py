@@ -25,7 +25,7 @@ class Messages():
         
         "**Commmands**\n__/ForceSubscribe - To get the current settings.\n/ForceSubscribe no/off/disable - To turn of ForceSubscribe.\n/ForceSubscribe {channel username or channel ID} - To turn on and setup the channel.\n/ForceSubscribe clear - To unmute all members who muted by me.\n\n★ 👉All Above Commands Works in Group Only 👈\n\nNote: /FSub is an alias of /ForceSubscribe__",
         
-       "**Devloped By @ARKBotz**" Use /fsub chat_id/username to make me functional.\n\nExample : /fsub -1001242765980 or /forcesubscribe : -1001242765980 After Adding Bot in Group
+       "**Devloped By @ARKBotz**\nUse /fsub chat_id/username to make me functional.\n\nExample : /fsub -1001242765980 or /forcesubscribe : -1001242765980\n\n Type as like given in example After Adding Bot in Group."
       ]
       SC_MSG = "**Hey [{}](tg://user?id={})**\n click on below👇 button to get my source code, for more help ask in my support group👇👇 "
 
